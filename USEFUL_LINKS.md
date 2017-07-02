@@ -10,4 +10,4 @@ Multiple presentations in one repo: https://github.com/gitpitch/gitpitch/wiki/As
 
 To look at the pitch.md presentation: https://gitpitch.com/deepankardatta/ecg-teaching/
 
-To look at the sub-presentations: https://gitpitch.com/deepankardatta/ecg-teaching/
+To look at the sub-presentations: https://gitpitch.com/deepankardatta/ecg-teaching/?p=ecg-x (replace x with the right number)
