@@ -1,8 +1,9 @@
 ---
 
-The ECG teaching project
+## The ECG teaching project
 
-Deepankar Datta
+### ECG no. 1
+### Deepankar Datta
 
 ---
 
@@ -10,7 +11,7 @@ Deepankar Datta
 
 ---
 
-#What the ECG shows
+## What the ECG shows
 
 - This is a normal ECG
 
