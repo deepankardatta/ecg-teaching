@@ -1,6 +1,6 @@
 ---
 
-## The ECG teaching project
+## The ECG Teaching Project
 
 ### ECG no. 1
 ##### Written by: Deepankar Datta
@@ -38,7 +38,7 @@ Credit: Ecgpedia
 
 ---
 
-## The ECG project
+## The ECG Teaching Project
 
 - Further reading: www.ecgpedia.org
 - Suggestions for a new ECG - email xxx
