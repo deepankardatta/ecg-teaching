@@ -15,19 +15,22 @@
 
 +++
 
+## What the ECG shows
+
 - 60bpm
 - Sinus rhythm
 - Normal PR/QRS/QTc/axis
+- This is a normal ECG
 
 ---
 
----?image=http://en.ecgpedia.org/images/8/82/Nsr.jpg
+?image=http://en.ecgpedia.org/images/8/82/Nsr.jpg
 
 #BIG ECG
 
 ---
 
-## What the ECG shows
+## Learning points
 
 - This is a normal ECG
 - Not all ECGs we see are pathological!
