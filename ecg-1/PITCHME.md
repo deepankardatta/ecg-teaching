@@ -13,6 +13,8 @@
 
 ![Logo](http://en.ecgpedia.org/images/8/82/Nsr.jpg)
 
+Credit: Ecgpedia
+
 +++
 
 ## What the ECG shows
@@ -35,3 +37,8 @@
 - This is a reminder to have a system of reading ECGs
 
 ---
+
+## The ECG project
+
+- Further reading: www.ecgpedia.org
+- Suggestions for a new ECG - email xxx
