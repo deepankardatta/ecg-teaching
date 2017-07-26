@@ -2,18 +2,21 @@
 
 ## The ECG Teaching Project
 
-### ECG no. 1
+### ECG no. x
 ##### Written by: Deepankar Datta
 
 ---
 
-# Describe the ECG!
+###### Describe the ECG!
 
----
+![Logo](http://en.ecgpedia.org/images/3/3c/Wellens.png)
 
-![Logo](http://en.ecgpedia.org/images/8/82/Nsr.jpg)
+###### Credit: Ecgpedia
 
-Credit: Ecgpedia
+---?image=http://en.ecgpedia.org/images/3/3c/Wellens.png
+
+#BIG ECG
+#PRESS DOWN!
 
 +++
 
@@ -23,10 +26,6 @@ Credit: Ecgpedia
 - Sinus rhythm
 - Normal PR/QRS/QTc/axis
 - This is a normal ECG
-
----?image=http://en.ecgpedia.org/images/8/82/Nsr.jpg
-
-#BIG ECG
 
 ---
 
@@ -40,5 +39,5 @@ Credit: Ecgpedia
 
 ## The ECG Teaching Project
 
-- Further reading: www.ecgpedia.org
+- Further reading: http://www.ecgpedia.org/
 - Suggestions for a new ECG - email xxx
