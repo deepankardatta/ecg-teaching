@@ -2,7 +2,7 @@
 
 ## The ECG Teaching Project
 
-### ECG no. 1
+### ECG no. x
 ##### Written by: Deepankar Datta
 
 ---
@@ -11,8 +11,7 @@
 
 ---
 
-![Logo](http://en.ecgpedia.org/images/8/82/Nsr.jpg)
-
+![Logo](http://en.ecgpedia.org/images/3/3c/Wellens.png)
 Credit: Ecgpedia
 
 +++
@@ -24,7 +23,7 @@ Credit: Ecgpedia
 - Normal PR/QRS/QTc/axis
 - This is a normal ECG
 
----?image=http://en.ecgpedia.org/images/8/82/Nsr.jpg
+---?image=http://en.ecgpedia.org/images/3/3c/Wellens.png
 
 #BIG ECG
 
@@ -40,5 +39,5 @@ Credit: Ecgpedia
 
 ## The ECG Teaching Project
 
-- Further reading: www.ecgpedia.org
+- Further reading: http://www.ecgpedia.org/
 - Suggestions for a new ECG - email xxx
