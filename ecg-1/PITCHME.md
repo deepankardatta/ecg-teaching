@@ -3,7 +3,7 @@
 ## The ECG teaching project
 
 ### ECG no. 1
-#### Deepankar Datta
+##### Written by: Deepankar Datta
 
 ---
 
