@@ -7,36 +7,30 @@
 
 ---
 
-# Describe the ECG!
-
----
-
-####### Describe the ECG!
+###### Describe the ECG!
 
 ![Logo](http://en.ecgpedia.org/images/3/3c/Wellens.png)
 
-####### Credit: Ecgpedia
+###### Credit: Ecgpedia
+
+---?image=http://en.ecgpedia.org/images/3/3c/Wellens.png
+
+#BIG ECG
+#PRESS DOWN!
 
 +++
 
 ## What the ECG shows
 
-- 60bpm
-- Sinus rhythm
-- Normal PR/QRS/QTc/axis
-- This is a normal ECG
-
----?image=http://en.ecgpedia.org/images/3/3c/Wellens.png
-
-#BIG ECG
+- Wellens
 
 ---
 
 ## Learning points
 
-- This is a normal ECG
-- Not all ECGs we see are pathological!
-- This is a reminder to have a system of reading ECGs
+- Sign of proximal left anterior descending stenosis 
+- Symmetrical, often deep (>2 mm), T wave inversions in the anterior precordial leads
+- A less common variant is biphasic T wave inversions in the same leads
 
 ---
 
