@@ -11,8 +11,11 @@
 
 ---
 
+####### Describe the ECG!
+
 ![Logo](http://en.ecgpedia.org/images/3/3c/Wellens.png)
-Credit: Ecgpedia
+
+####### Credit: Ecgpedia
 
 +++
 
