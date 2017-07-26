@@ -2,7 +2,7 @@
 
 ## The ECG Teaching Project
 
-### ECG no. x
+### ECG no. 1
 ##### Written by: Deepankar Datta
 
 ---
@@ -16,7 +16,7 @@
 ---?image=http://en.ecgpedia.org/images/3/3c/Wellens.png
 
 #BIG ECG
-#PRESS DOWN!
+##PRESS THE DOWN BUTTON!
 
 +++
 
