@@ -11,6 +11,10 @@
 
 ---
 
+![Logo](http://en.ecgpedia.org/images/8/82/Nsr.jpg)
+
+---
+
 ## What the ECG shows
 
 - This is a normal ECG
