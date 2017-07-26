@@ -21,8 +21,16 @@
 
 ---
 
+---?image=http://en.ecgpedia.org/images/8/82/Nsr.jpg
+
+#BIG ECG
+
+---
+
 ## What the ECG shows
 
 - This is a normal ECG
+- Not all ECGs we see are pathological!
+- This is a reminder to have a system of reading ECGs
 
 ---
