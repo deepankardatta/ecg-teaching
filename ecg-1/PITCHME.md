@@ -3,7 +3,7 @@
 ## The ECG teaching project
 
 ### ECG no. 1
-### Deepankar Datta
+#### Deepankar Datta
 
 ---
 
@@ -12,6 +12,12 @@
 ---
 
 ![Logo](http://en.ecgpedia.org/images/8/82/Nsr.jpg)
+
++++
+
+- 60bpm
+- Sinus rhythm
+- Normal PR/QRS/QTc/axis
 
 ---
 
