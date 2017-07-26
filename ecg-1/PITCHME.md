@@ -9,11 +9,11 @@
 
 ###### Describe the ECG!
 
-![Logo](http://en.ecgpedia.org/images/3/3c/Wellens.png)
+![Logo](http://en.ecgpedia.org/images/8/82/Nsr.jpg)
 
 ###### Credit: Ecgpedia
 
----?image=http://en.ecgpedia.org/images/3/3c/Wellens.png
+---?image=http://en.ecgpedia.org/images/8/82/Nsr.jpg
 
 #BIG ECG
 ##PRESS THE DOWN BUTTON!
