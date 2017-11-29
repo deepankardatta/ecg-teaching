@@ -31,7 +31,7 @@ Get an ECG here!
 
 - Normal PR interval is 0.12 to 0.2 seconds (3 - 5 small squares)
 - 1st degree heart block is a PR interval greater than 0.2s
--- There is still a following QRS complex after every P wave
++ There is still a following QRS complex after every P wave
 - Does not cause any clinical symptoms
 - No treatment is required
 
