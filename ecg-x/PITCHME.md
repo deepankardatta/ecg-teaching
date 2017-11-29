@@ -15,10 +15,7 @@
 
 ---?image=http://en.ecgpedia.org/images/3/3c/Wellens.png
 
-#BIG ECG
-#PRESS DOWN!
-
-+++
+---
 
 ## What the ECG shows
 
@@ -28,7 +25,7 @@
 
 ## Learning points
 
-- Sign of proximal left anterior descending stenosis 
+- Sign of proximal left anterior descending stenosis
 - Symmetrical, often deep (>2 mm), T wave inversions in the anterior precordial leads
 - A less common variant is biphasic T wave inversions in the same leads
 
@@ -37,4 +34,4 @@
 ## The ECG Teaching Project
 
 - Further reading: http://www.ecgpedia.org/
-- Suggestions for a new ECG - email xxx
+- ECG suggestions: deepankardatta@nhs.net
