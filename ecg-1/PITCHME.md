@@ -15,10 +15,7 @@
 
 ---?image=http://en.ecgpedia.org/images/8/82/Nsr.jpg
 
-#BIG ECG
-##PRESS THE DOWN BUTTON!
-
-+++
+---
 
 ## What the ECG shows
 
