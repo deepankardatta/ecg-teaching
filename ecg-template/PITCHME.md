@@ -9,11 +9,13 @@
 
 ###### Describe the ECG!
 
-![Logo](http://en.ecgpedia.org/images/3/3c/Wellens.png)
+![Logo]
+Get an ECG here!
 
 ###### Credit: [Insert credits here]
 
----?image=http://en.ecgpedia.org/images/3/3c/Wellens.png
+---?image=
+Get an ECG here!
 
 ---
 
