@@ -2,7 +2,7 @@
 
 ## The ECG Teaching Project
 
-### ECG no. x
+### ECG no. 17
 ##### Written by: Deepankar Datta
 
 ---
