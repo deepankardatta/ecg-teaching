@@ -40,4 +40,4 @@
 ## The ECG Teaching Project
 
 - Further reading: http://www.ecgpedia.org/
-- Suggestions for a new ECG - email xxx
+- ECG suggestions: deepankardatta@nhs.net
